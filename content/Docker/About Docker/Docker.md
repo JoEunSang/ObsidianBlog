@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/docker/about-docker/docker/","dgPassFrontmatter":true}
 ---
 “그림과 실습으로 배우는 도커 & 쿠버네티스” 라는 책의 목차를 기준으로 약 3주간 스터디를 하게 되었다. 스터디에 앞서 제대로 몰랐던 개념 및 용어들을 먼저 정리하고 시작 하려 한다.
-[[A가상화]]
+[[가상화]]
 
 ##### 도커란 무엇인가?
 
