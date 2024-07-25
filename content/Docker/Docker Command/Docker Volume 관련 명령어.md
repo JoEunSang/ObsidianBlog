@@ -15,3 +15,4 @@ dgPassFrontmatter: true
 | ls         | 볼륨 목록 보기         | \--format, -filter |        |
 | prune      | 불필요한 볼륨 삭제       | \--all, --filter   |        |
 | rm         | 볼륨 삭제            | \--force           |        |
+[[볼륨 마운트]]
